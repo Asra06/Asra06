@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asra06
 - 👀 I’m interested in HTML, JAVASCRIPT, PYTHON,CSS
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asra.brilliantmind@gmail.com
 
